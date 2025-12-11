@@ -356,3 +356,20 @@ Best practice: → Shrink only after a purge and rebuild indexes afterwards.
 SQL Server remains one of the most robust and flexible database engines. Whether migrating from standalone to distributed architectures or refining your maintenance workflows, the goal is the same: protect data integrity, minimize downtime, and ensure systems scale as the business grows.
 
 Years of experience across SQL Server estates have shown me that structured migration practices, combined with solid backup, archiving, and cleanup routines, significantly reduce operational risks and improve long-term performance.
+
+----
+
+## Author
+**Bárbara Ángeles Ortiz**
+
+<img src="https://github.com/user-attachments/assets/30ea0d40-a7a9-4b19-a835-c474b5cc50fb" width="115">
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen) 📅 December 2025
+
+![SQL Server](https://img.shields.io/badge/Sql-Server-orange)
+
+
+
+
